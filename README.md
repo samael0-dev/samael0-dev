@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing SVG -->
   <a href="https://github.com/samael0-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Arnab+Naskar;B.Tech+Undergrad+at+NIT+Rourkela;Full-Stack+%26+3D+Creative+Web+Developer;Technical+Member+%40+WebWiz+%26+GTA;%22Me%2C+God+and+my+grind%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Arnab;B.Tech+Undergrad+at+NIT+Rourkela;Full-Stack+%26+3D+Creative+Web+Developer;Technical+Member+%40+WebWiz+%26+GTA;%22Me%2C+God+and+my+grind%22" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -119,5 +119,5 @@
 <br/>
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/samael0-dev">Arnab Naskar</a> &bull; NIT Rourkela</sub>
+  <sub>Designed with ❤️ by <a href="https://github.com/samael0-dev">Arnab</a> &bull; NIT Rourkela</sub>
 </div>
